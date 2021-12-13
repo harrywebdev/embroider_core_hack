@@ -27,7 +27,6 @@
     "src/**/*.js.map"
   ],
   "scripts": {
-    "prepare": "tsc",
     "test": "jest"
   },
   "dependencies": {
